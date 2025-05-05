@@ -5,3 +5,4 @@ My first repository
 3. Toy Story
 4. Gravity Falls
 5. Phineas and Ferb
+6. We Bare Bears
